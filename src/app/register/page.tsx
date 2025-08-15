@@ -33,7 +33,7 @@ export default function SignUpForm() {
         <CardHeader className="text-center space-y-2">
           <CardTitle className="text-4xl font-bold">Register</CardTitle>
           <CardDescription>
-            Let's Sign up first for enter into Square Website. Uh She Up!
+            Lets Sign up first for enter into Square Website. Uh She Up!
           </CardDescription>
         </CardHeader>
 
